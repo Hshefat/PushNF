@@ -1,14 +1,14 @@
 import React from 'react';
 import { View, Text, Button, StyleSheet } from 'react-native';
 
-const HomeCompo = ({ onNavigate }) => {
+const PushCompo = ({ onNavigate }) => {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Ho me Screen</Text>
+      <Text style={styles.text}>Pu sh noti Screen</Text>
 
       <Button
-        title="Go to Push Screen"
-        onPress={() => onNavigate('push')}
+        title="Back to Home"
+        onPress={() => onNavigate('home')}
       />
     </View>
   );
@@ -26,4 +26,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default HomeCompo;
+export default PushCompo;
