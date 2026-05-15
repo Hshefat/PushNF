@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220449602394",
+    "project_id": "pushnf-63053",
+    "storage_bucket": "pushnf-63053.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220449602394:android:d1decd4153c87fd1989163",
+        "android_client_info": {
+          "package_name": "com.pushnf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJknqZkq7hMz3XAQIPgX5VIex4Q5oljm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
